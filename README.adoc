@@ -1,0 +1,4 @@
+= Task "facial recognition" =
+
+== Description ==
+This task is about recognizing faces in images. I take 10 images of myself. There are 5 emotions: angry, happy, neutral, sad and surprised. Neural network recognizes the emotions, but it is not very accurate.
